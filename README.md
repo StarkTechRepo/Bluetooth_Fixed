@@ -12,5 +12,10 @@ Este repositorio contiene una colección de archivos batch para manejar Bluetoot
 4. **diagnosticar_bluetooth.bat**: Ejecuta el solucionador de problemas de Bluetooth.
 5. **fix_bluetooth.bat**: Soluciona problemas comunes de Bluetooth.
 
-## Licencia
+### Cómo usar
+Para utilizar los archivos batch, simplemente haz clic en el archivo correspondiente y sigue las instrucciones en pantalla. Asegúrate de ejecutar los archivos con permisos de administrador cuando sea necesario.
+
+### Licencia
 Este proyecto está bajo la licencia [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Puedes compartir, adaptar y utilizar estos archivos siempre que des el crédito correspondiente al autor original.
+
+¡Esperamos que estos archivos te sean útiles para resolver tus problemas de Bluetooth en Windows! Si tienes alguna pregunta o sugerencia, no dudes en abrir un problema o enviar una solicitud de extracción.
